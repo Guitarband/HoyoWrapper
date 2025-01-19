@@ -1,0 +1,404 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "schedule_id": 103,
+        "start_time": "1737018000",
+        "end_time": "1739696399",
+        "total_battle_times": 3,
+        "total_win_times": 3,
+        "max_floor": "9-3",
+        "reveal_rank": [
+            {
+                "avatar_id": 10000030,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b8e711c3d8975cddb892bf93dec0ae5e.png",
+                "value": 3,
+                "rarity": 5
+            },
+            {
+                "avatar_id": 10000046,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4c666c24b7583c0e15e6db3a44328e17.png",
+                "value": 3,
+                "rarity": 5
+            },
+            {
+                "avatar_id": 10000047,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/1580153dac822f23556f5dfe543191eb.png",
+                "value": 3,
+                "rarity": 5
+            },
+            {
+                "avatar_id": 10000096,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/643b6f8e6375977cd720f867aa8d5799.png",
+                "value": 3,
+                "rarity": 5
+            }
+        ],
+        "defeat_rank": [
+            {
+                "avatar_id": 10000096,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/c90cb35d150a3f6afc6e2170c69abcd2.png",
+                "value": 20,
+                "rarity": 5
+            }
+        ],
+        "damage_rank": [
+            {
+                "avatar_id": 10000046,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/61f1a2fb45c73dbdfe704572a42f9a85.png",
+                "value": 106373,
+                "rarity": 5
+            }
+        ],
+        "take_damage_rank": [
+            {
+                "avatar_id": 10000096,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/c90cb35d150a3f6afc6e2170c69abcd2.png",
+                "value": 1138,
+                "rarity": 5
+            }
+        ],
+        "normal_skill_rank": [
+            {
+                "avatar_id": 10000022,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/651aa2d67606c40519698ea064e7067a.png",
+                "value": 6,
+                "rarity": 5
+            }
+        ],
+        "energy_skill_rank": [
+            {
+                "avatar_id": 10000022,
+                "avatar_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/651aa2d67606c40519698ea064e7067a.png",
+                "value": 3,
+                "rarity": 5
+            }
+        ],
+        "floors": [
+            {
+                "index": 9,
+                "icon": "",
+                "is_unlock": true,
+                "settle_time": "0",
+                "star": 9,
+                "max_star": 9,
+                "levels": [
+                    {
+                        "index": 1,
+                        "star": 3,
+                        "max_star": 3,
+                        "battles": [
+                            {
+                                "index": 1,
+                                "timestamp": "1737202916",
+                                "avatars": [
+                                    {
+                                        "id": 10000096,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/643b6f8e6375977cd720f867aa8d5799.png",
+                                        "level": 90,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000022,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/c130388551e0bfca689c56321c335c63.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000030,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b8e711c3d8975cddb892bf93dec0ae5e.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000054,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/342bd4f4f62caeb5fe1aa4e8b4017116.png",
+                                        "level": 70,
+                                        "rarity": 5
+                                    }
+                                ],
+                                "settle_date_time": {
+                                    "year": 2025,
+                                    "month": 1,
+                                    "day": 18,
+                                    "hour": 7,
+                                    "minute": 21,
+                                    "second": 56
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "timestamp": "1737202940",
+                                "avatars": [
+                                    {
+                                        "id": 10000046,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4c666c24b7583c0e15e6db3a44328e17.png",
+                                        "level": 90,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000047,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/1580153dac822f23556f5dfe543191eb.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000107,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4a794926a96f670c701fd5f2b11d7691.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000014,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/021d1d1f51cc7c7b5f6511fd423f072b.png",
+                                        "level": 70,
+                                        "rarity": 4
+                                    }
+                                ],
+                                "settle_date_time": {
+                                    "year": 2025,
+                                    "month": 1,
+                                    "day": 18,
+                                    "hour": 7,
+                                    "minute": 22,
+                                    "second": 20
+                                }
+                            }
+                        ],
+                        "top_half_floor_monster": [
+                            {
+                                "name": "Tepetlisaurus",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/3a2d854cd698f69e12cb19ce89666594.png",
+                                "level": 72
+                            },
+                            {
+                                "name": "Tepetlisaur Whelp",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/1a7b1f36da2c6eef1efca6c1de3f72d1.png",
+                                "level": 72
+                            }
+                        ],
+                        "bottom_half_floor_monster": [
+                            {
+                                "name": "Ruin Guard",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/9251e355b87633f7484d8cf9e37f28e5.png",
+                                "level": 72
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "star": 3,
+                        "max_star": 3,
+                        "battles": [
+                            {
+                                "index": 1,
+                                "timestamp": "1737202971",
+                                "avatars": [
+                                    {
+                                        "id": 10000096,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/643b6f8e6375977cd720f867aa8d5799.png",
+                                        "level": 90,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000022,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/c130388551e0bfca689c56321c335c63.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000030,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b8e711c3d8975cddb892bf93dec0ae5e.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000054,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/342bd4f4f62caeb5fe1aa4e8b4017116.png",
+                                        "level": 70,
+                                        "rarity": 5
+                                    }
+                                ],
+                                "settle_date_time": {
+                                    "year": 2025,
+                                    "month": 1,
+                                    "day": 18,
+                                    "hour": 7,
+                                    "minute": 22,
+                                    "second": 51
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "timestamp": "1737203020",
+                                "avatars": [
+                                    {
+                                        "id": 10000046,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4c666c24b7583c0e15e6db3a44328e17.png",
+                                        "level": 90,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000047,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/1580153dac822f23556f5dfe543191eb.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000107,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4a794926a96f670c701fd5f2b11d7691.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000014,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/021d1d1f51cc7c7b5f6511fd423f072b.png",
+                                        "level": 70,
+                                        "rarity": 4
+                                    }
+                                ],
+                                "settle_date_time": {
+                                    "year": 2025,
+                                    "month": 1,
+                                    "day": 18,
+                                    "hour": 7,
+                                    "minute": 23,
+                                    "second": 40
+                                }
+                            }
+                        ],
+                        "top_half_floor_monster": [
+                            {
+                                "name": "Koholasaur Whelp",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/f2bd0155b07d92690c6b2de7ce6a2cd5.png",
+                                "level": 74
+                            },
+                            {
+                                "name": "Koholasaurus",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/9911505d6049e4942a51ecb31d1de23c.png",
+                                "level": 74
+                            }
+                        ],
+                        "bottom_half_floor_monster": [
+                            {
+                                "name": "Ruin Grader",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/cab65b43770ff0d1bdefb4799e0ff7f2.png",
+                                "level": 74
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "star": 3,
+                        "max_star": 3,
+                        "battles": [
+                            {
+                                "index": 1,
+                                "timestamp": "1737203062",
+                                "avatars": [
+                                    {
+                                        "id": 10000096,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/643b6f8e6375977cd720f867aa8d5799.png",
+                                        "level": 90,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000022,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/c130388551e0bfca689c56321c335c63.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000030,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b8e711c3d8975cddb892bf93dec0ae5e.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000054,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/342bd4f4f62caeb5fe1aa4e8b4017116.png",
+                                        "level": 70,
+                                        "rarity": 5
+                                    }
+                                ],
+                                "settle_date_time": {
+                                    "year": 2025,
+                                    "month": 1,
+                                    "day": 18,
+                                    "hour": 7,
+                                    "minute": 24,
+                                    "second": 22
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "timestamp": "1737203123",
+                                "avatars": [
+                                    {
+                                        "id": 10000046,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4c666c24b7583c0e15e6db3a44328e17.png",
+                                        "level": 90,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000047,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/1580153dac822f23556f5dfe543191eb.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000107,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4a794926a96f670c701fd5f2b11d7691.png",
+                                        "level": 80,
+                                        "rarity": 5
+                                    },
+                                    {
+                                        "id": 10000014,
+                                        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/021d1d1f51cc7c7b5f6511fd423f072b.png",
+                                        "level": 70,
+                                        "rarity": 4
+                                    }
+                                ],
+                                "settle_date_time": {
+                                    "year": 2025,
+                                    "month": 1,
+                                    "day": 18,
+                                    "hour": 7,
+                                    "minute": 25,
+                                    "second": 23
+                                }
+                            }
+                        ],
+                        "top_half_floor_monster": [
+                            {
+                                "name": "Yumkasaur Whelp",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/8d4fd06d772638b6768988b0e5aa1002.png",
+                                "level": 76
+                            },
+                            {
+                                "name": "Yumkasaurus",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/3f6bae1e58b344be441ca10ac7c31269.png",
+                                "level": 76
+                            }
+                        ],
+                        "bottom_half_floor_monster": [
+                            {
+                                "name": "Ruin Drake: Earthguard",
+                                "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_monster_icon_ua4fih/ffe749c9343e10ccd30d5c184df515ff.png",
+                                "level": 76
+                            }
+                        ]
+                    }
+                ],
+                "settle_date_time": null,
+                "ley_line_disorder": [
+                    "All party members gain a 50% Pyro DMG Bonus."
+                ]
+            }
+        ],
+        "total_star": 9,
+        "is_unlock": true,
+        "is_just_skipped_floor": false,
+        "skipped_floor": ""
+    }
+}
