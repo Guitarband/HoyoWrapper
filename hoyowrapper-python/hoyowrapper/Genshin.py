@@ -1,6 +1,6 @@
 from requests import request
 import random
-from constants import _constant_info
+from .constants import _constant_info
 import asyncio
 
 async def overview(server: str, uid: int, cookies: str) -> dict:

@@ -12,15 +12,16 @@ pip install hoyowrapper
 
 ## Usage
 
-Here is a basic example of how to use HoyoWrapper:
+Functions in HoyoWrapper are all asynchronous and need to be run using asyncio. Here is a basic example of how to use HoyoWrapper:
 
 ```python
-from hoyowrapper import HoyoLab, Genshin
+from hoyowrapper import Tools, Genshin
+import asyncio
 
-user_cookies = HoyoLab.login()
+user_cookies = asyncio.run(Tools.login())
 
 # Example function call
-response = Genshin.check_in(user_cookies)
+response = asyncio.run(Genshin.check_in(user_cookies))
 print(response)
 ```
 
