@@ -5,7 +5,7 @@ long_description = Path('README.md').read_text()
 
 setup(
     name='hoyowrapper',
-    version='0.1.1',
+    version='0.1.2',
     packages=find_packages(include=['hoyowrapper']),
     author='Guitarband',
     author_email='preetish_choudhary@outlook.com',

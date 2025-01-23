@@ -1,0 +1,12 @@
+{
+  "name": "hoyowrapper",
+  "version": "0.1.0",
+  "description": "HoyoWrapper is a node library designed to interact with HoYoverse's HoYoLab. It provides a simple and efficient way to access various endpoints and perform operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guitarband",
+  "type": "module",
+  "license": "ISC"
+}

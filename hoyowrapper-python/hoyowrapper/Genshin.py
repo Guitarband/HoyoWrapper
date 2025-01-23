@@ -192,7 +192,7 @@ async def act_calender(server: str, uid: int, cookies: str) -> dict:
 
     gameData = _constant_info["genshin"]
 
-    act_calender = request("GET", f"{gameData['chronicle']}/act_calender", headers=requestHeader, params=data).json()
+    act_calender = request("POST", f"{gameData['chronicle']}/act_calender", headers=requestHeader, params=data).json()
 
     return act_calender
 
@@ -251,5 +251,5 @@ async def imaginarium_theatre(server: str, uid: int, cookies: str) -> dict:
 
         await asyncio.sleep(random.randint(1, 5))
 
-        abyssData = request("GET", f"{gameData['chronicle']}/role_combat?server={server}&role_id={uid}&need_detail=true", headers=requestHeader).json()
-        return abyssData
+        theatreData = request("GET", f"{gameData['chronicle']}/role_combat?server={server}&role_id={uid}&need_detail=false", headers=requestHeader).json()
+        return theatreData
